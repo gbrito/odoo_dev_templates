@@ -1,0 +1,10 @@
+{
+  "module": {
+    "roots": [
+      "./odoo",
+      "./base/enterprise",
+      "./base/design-themes",
+      "./addons"
+    ]
+  }
+}

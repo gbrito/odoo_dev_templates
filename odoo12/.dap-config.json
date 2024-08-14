@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Odoo",
+      "type": "python",
+      "python": "python",
+      "request": "launch",
+      "program": "/opt/odoo12/odoo/odoo-bin",
+      "args": ["-c", "${workspaceFolder}/config/odoo12.conf"]
+    }
+  ]
+}
