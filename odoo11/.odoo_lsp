@@ -1,9 +1,9 @@
 {
   "module": {
     "roots": [
-      "./odoo",
-      "./base/enterprise",
-      "./base/design-themes",
+      "/opt/odoo11/odoo/odoo",
+      "/opt/odoo11/odoo-enterprise-addons",
+      "/opt/odoo11/base/design-themes",
       "./addons"
     ]
   }
