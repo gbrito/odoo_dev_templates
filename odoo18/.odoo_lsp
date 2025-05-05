@@ -1,0 +1,10 @@
+{
+  "module": {
+    "roots": [
+      "/opt/odoo18/odoo/odoo",
+      "/opt/odoo18/odoo-enterprise-addons",
+      "/opt/odoo18/base/design-themes",
+      "./addons"
+    ]
+  }
+}
