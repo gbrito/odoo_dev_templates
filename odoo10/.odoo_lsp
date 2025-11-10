@@ -3,7 +3,7 @@
     "roots": [
       "/opt/odoo10/odoo/odoo",
       "/opt/odoo10/odoo-enterprise-addons",
-      "/opt/odoo10/base/design-themes",
+      "/opt/odoo10/design-themes",
       "./addons"
     ]
   }
